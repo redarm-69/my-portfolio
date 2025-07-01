@@ -1,6 +1,6 @@
 {
   "zh": {
-    "name": "Lance",
+    "name": "@Lance",
     "bio": "全端工程師，擅長前端與後端多種技術，樂於挑戰新事物。",
     "skills": ["全端", "Vue", "CSS", "JavaScript", "C#", "ASP.NET", "WPF", "WinForm", "SQL Database"],
     "contacts": {
@@ -21,7 +21,7 @@
     ]
   },
   "en": {
-    "name": "Lance",
+    "name": "@Lance",
     "bio": "Full-stack engineer proficient in both frontend and backend technologies, always eager to take on new challenges.",
     "skills": ["Full-stack", "Vue", "CSS", "JavaScript", "C#", "ASP.NET", "WPF", "WinForm", "SQL Database"],
     "contacts": {
