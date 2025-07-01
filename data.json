@@ -1,0 +1,44 @@
+{
+  "zh": {
+    "name": "Lance",
+    "bio": "全端工程師，擅長前端與後端多種技術，樂於挑戰新事物。",
+    "skills": ["全端", "Vue", "CSS", "JavaScript", "C#", "ASP.NET", "WPF", "WinForm", "SQL Database"],
+    "contacts": {
+      "email": "lancestudio@hotmail.com",
+      "github": "https://github.com/redarm-69"
+    },
+    "portfolio": [
+      {
+        "title": "購物網站",
+        "desc": "前後端獨立開發，支援商品瀏覽、購物車、金流、會員系統等功能。",
+        "link": "#"
+      },
+      {
+        "title": "Web POS",
+        "desc": "基於網頁的POS系統，整合即時庫存與銷售報表，刷卡、LINE Pay、街口支付付款，電子發票。",
+        "link": "#"
+      }
+    ]
+  },
+  "en": {
+    "name": "Lance",
+    "bio": "Full-stack engineer proficient in both frontend and backend technologies, always eager to take on new challenges.",
+    "skills": ["Full-stack", "Vue", "CSS", "JavaScript", "C#", "ASP.NET", "WPF", "WinForm", "SQL Database"],
+    "contacts": {
+      "email": "lancestudio@hotmail.com",
+      "github": "https://github.com/redarm-69"
+    },
+    "portfolio": [
+      {
+        "title": "Shopping Website",
+        "desc": "Developed both frontend and backend; features include product browsing, cart, payment, and member system.",
+        "link": "#"
+      },
+      {
+        "title": "Web POS",
+        "desc": "Web-based POS system with real-time inventory and sales reports, supports credit card, LINE Pay, JKOPAY payments, and e-invoice.",
+        "link": "#"
+      }
+    ]
+  }
+}
